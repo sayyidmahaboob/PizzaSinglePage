@@ -1,7 +1,7 @@
 //dependencies
 
 import React, { useState } from "react";
-import Logo from "../assets/pizzaLogo.png";
+import Logo from "..src/assets/pizzaLogo.png";
 import { Link } from "react-router-dom";
 import MenuTwoToneIcon from "@mui/icons-material/MenuTwoTone";
 
